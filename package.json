@@ -1,0 +1,22 @@
+{
+  "name": "teste3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mariombaltazar/teste3.git"
+  },
+  "author": "Mario Baltazar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mariombaltazar/teste3/issues"
+  },
+  "homepage": "https://github.com/mariombaltazar/teste3#readme",
+  "dependencies": {
+    "bootswatch": "^3.3.7"
+  }
+}
